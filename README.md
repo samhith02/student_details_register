@@ -40,6 +40,17 @@ Logging: Record all login attempts, data modifications, and system activities in
 Security Measures: Use secure hashing algorithms for storing passwords, implement HTTPS for data transmission, and regularly update security protocols.
 By following this structure, you can create a robust system that efficiently manages student data while ensuring proper access control and security across different user roles.
 
+Output Screenshots:
+
+<img width="611" alt="image" src="https://github.com/samhith02/student_details_register/assets/167102207/bd83d394-04e2-462a-ae60-f683c76aec41">
+<img width="614" alt="image" src="https://github.com/samhith02/student_details_register/assets/167102207/43f00657-d6ce-4275-9471-ec8f25817af0">
+<img width="614" alt="image" src="https://github.com/samhith02/student_details_register/assets/167102207/b51aced7-6c94-4204-97fb-5eeaf2165234">
+<img width="613" alt="image" src="https://github.com/samhith02/student_details_register/assets/167102207/c7487354-621d-4066-bde0-1b45ae9487f9">
+
+
+
+
+
 
 
    
